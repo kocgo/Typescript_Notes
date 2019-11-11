@@ -8,7 +8,7 @@ npm install -g ts-node
 ```
 
 ### Test Installation
-___Typescript Compiler__
+_Typescript Compiler_
 ```
 tsc --help
 ```

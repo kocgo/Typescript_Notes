@@ -51,4 +51,17 @@ interface Todo {
     title: string;
     completed: boolean;
 }
+
+const todo = {id: 12, title: "Godfather", completed: true} as Todo;
+```
+
+### Specifying Types in Function Arguments
+```ts
+function logTodo (id: number, title: string, completed: boolean){
+    console.log(`
+        The todo with ID: ${id}
+        Has a title of: ${title}
+        Is it finished? ${completed}
+    `); 
+}
 ```

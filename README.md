@@ -1,2 +1,2 @@
 ### Typescript Compiler
-<a href="www.typescriptlang.org/play" target="_blank"> Playground </a>
+<a href="https://www.typescriptlang.org/play" target="_blank">Playground</a>

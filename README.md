@@ -65,3 +65,16 @@ function logTodo (id: number, title: string, completed: boolean){
     `); 
 }
 ```
+
+### Annotations
+```ts
+let myNumber: number = 5;
+let myName: string = 'Gokhan';
+let isActive: boolean = true;
+let nothingMuch: null = null;
+```
+
+__Built-in Objects__
+```ts
+let now: Date = Date();
+```

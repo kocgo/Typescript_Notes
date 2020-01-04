@@ -74,7 +74,30 @@ let isActive: boolean = true;
 let nothingMuch: null = null;
 ```
 
-__Built-in Objects__
+_Built-in Objects_
 ```ts
 let now: Date = Date();
 ```
+
+_Array of Strings_
+```ts
+let colors: string[] : ['red','green','blue'];
+```
+
+_Classes_
+```ts
+class Car{
+//
+}
+
+let myCar: Car = newCar();
+```
+
+_Object Literal_
+```ts
+let point: { x: number; y: number } = {
+    x: 10,
+    y: 20
+};
+```
+
